@@ -1,0 +1,5 @@
+,WAPE,MAPE,Bias,Accuracy (1-WAPE),WAPE reduction vs MA,Accuracy gain vs MA
+moving_avg_8w,0.4363,0.6284,-0.1351,0.5637,0.0,0.0
+seasonal_naive,0.4893,0.713,0.02,0.5107,-0.1215,-0.094
+holt_winters,0.4386,0.6272,-0.032,0.5614,-0.0054,-0.0042
+gradient_boosting,0.3283,0.5299,-0.0157,0.6717,0.2474,0.1914

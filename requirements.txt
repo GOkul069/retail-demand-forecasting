@@ -1,0 +1,10 @@
+pandas>=3.0,<4
+numpy>=2.0,<3
+scipy>=1.11,<2
+scikit-learn>=1.5,<2
+statsmodels>=0.14,<0.16
+threadpoolctl>=3.0,<4
+matplotlib>=3.8,<4
+jupyter>=1.0,<2
+nbconvert>=7.0,<8
+ipykernel>=6.0,<8

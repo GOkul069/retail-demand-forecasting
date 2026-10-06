@@ -1,0 +1,5 @@
+location_id,location_name,region,lead_time_weeks
+DC01,Columbus DC,Midwest,2
+DC02,Dallas DC,South Central,2
+DC03,Reno DC,West,3
+DC04,Atlanta DC,Southeast,1

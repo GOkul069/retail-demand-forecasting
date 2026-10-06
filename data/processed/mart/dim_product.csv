@@ -1,0 +1,61 @@
+sku_id,sku_name,category,case_pack,list_price,unit_cost,list_margin_pct
+SKU0001,Corrugated Boxes item 01,Corrugated Boxes,100,2.35,1.668,0.29
+SKU0002,Corrugated Boxes item 02,Corrugated Boxes,500,2.05,1.568,0.235
+SKU0003,Corrugated Boxes item 03,Corrugated Boxes,6,2.3,1.505,0.346
+SKU0004,Corrugated Boxes item 04,Corrugated Boxes,250,1.33,0.958,0.28
+SKU0005,Corrugated Boxes item 05,Corrugated Boxes,24,1.87,1.212,0.352
+SKU0006,Corrugated Boxes item 06,Corrugated Boxes,6,0.9,0.622,0.309
+SKU0007,Corrugated Boxes item 07,Corrugated Boxes,50,2.58,1.752,0.321
+SKU0008,Corrugated Boxes item 08,Corrugated Boxes,100,1.12,0.7,0.375
+SKU0009,Corrugated Boxes item 09,Corrugated Boxes,24,2.37,1.775,0.251
+SKU0010,Corrugated Boxes item 10,Corrugated Boxes,50,0.65,0.491,0.245
+SKU0011,Corrugated Boxes item 11,Corrugated Boxes,12,2.23,1.394,0.375
+SKU0012,Corrugated Boxes item 12,Corrugated Boxes,10,1.15,0.811,0.295
+SKU0013,Poly Mailers item 01,Poly Mailers,10,0.19,0.134,0.295
+SKU0014,Poly Mailers item 02,Poly Mailers,100,0.5,0.355,0.29
+SKU0015,Poly Mailers item 03,Poly Mailers,100,0.53,0.387,0.27
+SKU0016,Poly Mailers item 04,Poly Mailers,12,0.63,0.452,0.283
+SKU0017,Poly Mailers item 05,Poly Mailers,10,0.51,0.386,0.243
+SKU0018,Poly Mailers item 06,Poly Mailers,50,0.15,0.098,0.347
+SKU0019,Poly Mailers item 07,Poly Mailers,24,0.53,0.347,0.345
+SKU0020,Poly Mailers item 08,Poly Mailers,6,0.42,0.318,0.243
+SKU0021,Packing Tape item 01,Packing Tape,25,4.49,3.164,0.295
+SKU0022,Packing Tape item 02,Packing Tape,25,4.88,3.311,0.322
+SKU0023,Packing Tape item 03,Packing Tape,1,4.08,2.984,0.269
+SKU0024,Packing Tape item 04,Packing Tape,24,3.66,2.729,0.254
+SKU0025,Packing Tape item 05,Packing Tape,6,5.28,3.921,0.257
+SKU0026,Packing Tape item 06,Packing Tape,50,3.2,2.346,0.267
+SKU0027,Packing Tape item 07,Packing Tape,50,4.07,2.664,0.345
+SKU0028,Stretch Film item 01,Stretch Film,4,26.12,16.972,0.35
+SKU0029,Stretch Film item 02,Stretch Film,1,19.55,12.989,0.336
+SKU0030,Stretch Film item 03,Stretch Film,4,20.87,14.606,0.3
+SKU0031,Stretch Film item 04,Stretch Film,6,27.09,19.479,0.281
+SKU0032,Stretch Film item 05,Stretch Film,4,32.07,23.158,0.278
+SKU0033,Stretch Film item 06,Stretch Film,1,43.46,27.581,0.365
+SKU0034,Void Fill item 01,Void Fill,4,16.53,10.33,0.375
+SKU0035,Void Fill item 02,Void Fill,6,20.61,15.178,0.264
+SKU0036,Void Fill item 03,Void Fill,6,35.57,25.151,0.293
+SKU0037,Void Fill item 04,Void Fill,4,24.1,18.116,0.248
+SKU0038,Void Fill item 05,Void Fill,4,29.91,19.887,0.335
+SKU0039,Void Fill item 06,Void Fill,6,24.24,16.387,0.324
+SKU0040,Void Fill item 07,Void Fill,1,19.8,15.312,0.227
+SKU0041,Food Containers item 01,Food Containers,25,0.11,0.084,0.236
+SKU0042,Food Containers item 02,Food Containers,25,0.11,0.07,0.364
+SKU0043,Food Containers item 03,Food Containers,1,0.16,0.11,0.313
+SKU0044,Food Containers item 04,Food Containers,50,0.55,0.387,0.296
+SKU0045,Food Containers item 05,Food Containers,24,0.09,0.063,0.3
+SKU0046,Food Containers item 06,Food Containers,24,0.53,0.365,0.311
+SKU0047,Food Containers item 07,Food Containers,25,0.14,0.102,0.271
+SKU0048,Food Containers item 08,Food Containers,100,0.19,0.148,0.221
+SKU0049,Food Containers item 09,Food Containers,25,0.49,0.371,0.243
+SKU0050,Labels item 01,Labels,12,9.05,6.086,0.328
+SKU0051,Labels item 02,Labels,4,16.96,11.256,0.336
+SKU0052,Labels item 03,Labels,10,9.04,5.726,0.367
+SKU0053,Labels item 04,Labels,24,8.35,5.772,0.309
+SKU0054,Labels item 05,Labels,1,20.59,13.397,0.349
+SKU0055,Gift Packaging item 01,Gift Packaging,12,0.92,0.642,0.302
+SKU0056,Gift Packaging item 02,Gift Packaging,1,3.5,2.638,0.246
+SKU0057,Gift Packaging item 03,Gift Packaging,100,1.24,0.77,0.379
+SKU0058,Gift Packaging item 04,Gift Packaging,100,2.37,1.511,0.362
+SKU0059,Gift Packaging item 05,Gift Packaging,50,1.47,1.072,0.271
+SKU0060,Gift Packaging item 06,Gift Packaging,6,1.98,1.426,0.28

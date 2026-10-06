@@ -1,0 +1,9 @@
+,95% target,95% target,95% target,equal service,equal service,equal service
+,current rule,forecast-based (z=1.645),change,current rule,forecast-based (90.5% target),change
+avg inventory value (USD),2990909.6207,2402495.1148,-0.1967,2990909.6207,2260870.3181,-0.2441
+avg excess value (USD),36408.2182,29787.3271,-0.1819,36408.2182,29323.4006,-0.1946
+excess share of inventory,0.0133,0.0129,-0.0335,0.0133,0.0135,0.0114
+unit fill rate,0.9964,0.998,0.0016,0.9964,0.9963,-0.0001
+weeks of cover (avg),3.5811,2.9413,-0.1787,3.5811,2.7618,-0.2288
+SKU-loc-weeks with backorder,0.0106,0.0076,-0.2828,0.0106,0.0129,0.2222
+POs placed,2628.0,2407.0,-0.0841,2628.0,2390.0,-0.0906

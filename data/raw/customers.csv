@@ -1,0 +1,421 @@
+customer_id,segment,home_location_id,price_tier
+C0001,Independent retail,DC03,Silver
+C0002,E-commerce,DC02,Standard
+C0003,3PL,DC02,Standard
+C0004,E-commerce,DC03,Silver
+C0005,E-commerce,DC04,Standard
+C0006,Independent retail,DC04,Gold
+C0007,E-commerce,DC01,Standard
+C0008,E-commerce,DC03,Silver
+C0009,Food service,DC03,Standard
+C0010,Independent retail,DC02,Standard
+C0011,E-commerce,DC01,Standard
+C0012,E-commerce,DC01,Standard
+C0013,Independent retail,DC04,Standard
+C0014,3PL,DC02,Silver
+C0015,Food service,DC04,Silver
+C0016,E-commerce,DC02,Silver
+C0017,E-commerce,DC04,Standard
+C0018,E-commerce,DC02,Standard
+C0019,E-commerce,DC04,Standard
+C0020,Food service,DC01,Silver
+C0021,E-commerce,DC02,Silver
+C0022,Food service,DC04,Standard
+C0023,Food service,DC04,Silver
+C0024,Food service,DC04,Standard
+C0025,E-commerce,DC01,Standard
+C0026,Independent retail,DC02,Standard
+C0027,Independent retail,DC01,Standard
+C0028,Independent retail,DC01,Silver
+C0029,E-commerce,DC03,Gold
+C0030,E-commerce,DC03,Standard
+C0031,3PL,DC04,Standard
+C0032,Retail chain,DC04,Silver
+C0033,E-commerce,DC03,Gold
+C0034,Retail chain,DC04,Silver
+C0035,Food service,DC01,Standard
+C0036,3PL,DC01,Silver
+C0037,E-commerce,DC03,Standard
+C0038,3PL,DC04,Gold
+C0039,E-commerce,DC01,Standard
+C0040,Food service,DC02,Silver
+C0041,Food service,DC03,Standard
+C0042,E-commerce,DC01,Standard
+C0043,E-commerce,DC02,Silver
+C0044,Retail chain,DC04,Silver
+C0045,3PL,DC03,Standard
+C0046,Food service,DC01,Gold
+C0047,3PL,DC04,Silver
+C0048,Independent retail,DC02,Standard
+C0049,Retail chain,DC04,Standard
+C0050,Independent retail,DC01,Standard
+C0051,E-commerce,DC03,Silver
+C0052,E-commerce,DC02,Standard
+C0053,Independent retail,DC01,Standard
+C0054,Independent retail,DC04,Gold
+C0055,E-commerce,DC01,Gold
+C0056,Food service,DC01,Silver
+C0057,Food service,DC02,Gold
+C0058,Independent retail,DC03,Silver
+C0059,Food service,DC04,Silver
+C0060,Retail chain,DC04,Silver
+C0061,Retail chain,DC01,Standard
+C0062,Retail chain,DC02,Standard
+C0063,Food service,DC01,Standard
+C0064,Independent retail,DC02,Silver
+C0065,Retail chain,DC04,Standard
+C0066,E-commerce,DC03,Standard
+C0067,E-commerce,DC03,Standard
+C0068,Independent retail,DC02,Standard
+C0069,Independent retail,DC04,Standard
+C0070,E-commerce,DC02,Silver
+C0071,E-commerce,DC01,Silver
+C0072,Food service,DC02,Standard
+C0073,E-commerce,DC01,Standard
+C0074,Independent retail,DC01,Standard
+C0075,E-commerce,DC01,Silver
+C0076,E-commerce,DC02,Silver
+C0077,3PL,DC03,Standard
+C0078,E-commerce,DC02,Silver
+C0079,E-commerce,DC02,Standard
+C0080,E-commerce,DC04,Standard
+C0081,E-commerce,DC03,Gold
+C0082,E-commerce,DC02,Standard
+C0083,E-commerce,DC01,Standard
+C0084,E-commerce,DC04,Standard
+C0085,E-commerce,DC01,Silver
+C0086,Food service,DC02,Gold
+C0087,Food service,DC04,Gold
+C0088,Retail chain,DC02,Standard
+C0089,E-commerce,DC03,Standard
+C0090,Food service,DC03,Silver
+C0091,Independent retail,DC03,Standard
+C0092,Independent retail,DC01,Silver
+C0093,E-commerce,DC01,Silver
+C0094,E-commerce,DC02,Standard
+C0095,E-commerce,DC01,Silver
+C0096,E-commerce,DC04,Standard
+C0097,Food service,DC01,Standard
+C0098,Retail chain,DC02,Standard
+C0099,E-commerce,DC04,Standard
+C0100,Retail chain,DC04,Silver
+C0101,Food service,DC02,Silver
+C0102,E-commerce,DC02,Gold
+C0103,Independent retail,DC04,Gold
+C0104,E-commerce,DC03,Standard
+C0105,3PL,DC04,Standard
+C0106,E-commerce,DC04,Silver
+C0107,Independent retail,DC04,Gold
+C0108,3PL,DC01,Standard
+C0109,3PL,DC02,Standard
+C0110,Independent retail,DC01,Standard
+C0111,Independent retail,DC03,Standard
+C0112,Food service,DC04,Silver
+C0113,Independent retail,DC02,Standard
+C0114,E-commerce,DC02,Silver
+C0115,Food service,DC01,Silver
+C0116,Food service,DC04,Silver
+C0117,Independent retail,DC01,Standard
+C0118,Retail chain,DC01,Standard
+C0119,Retail chain,DC01,Silver
+C0120,Food service,DC01,Silver
+C0121,E-commerce,DC02,Standard
+C0122,E-commerce,DC02,Silver
+C0123,Retail chain,DC01,Standard
+C0124,Retail chain,DC01,Silver
+C0125,E-commerce,DC01,Standard
+C0126,Retail chain,DC02,Standard
+C0127,Retail chain,DC01,Standard
+C0128,Retail chain,DC03,Standard
+C0129,Retail chain,DC01,Standard
+C0130,Food service,DC01,Standard
+C0131,E-commerce,DC02,Standard
+C0132,3PL,DC02,Silver
+C0133,3PL,DC01,Standard
+C0134,Retail chain,DC01,Silver
+C0135,Retail chain,DC04,Silver
+C0136,Food service,DC01,Standard
+C0137,Independent retail,DC02,Standard
+C0138,Food service,DC02,Silver
+C0139,Independent retail,DC02,Silver
+C0140,Food service,DC02,Standard
+C0141,Food service,DC04,Silver
+C0142,E-commerce,DC04,Standard
+C0143,Independent retail,DC01,Standard
+C0144,E-commerce,DC02,Silver
+C0145,Food service,DC01,Standard
+C0146,Independent retail,DC02,Silver
+C0147,E-commerce,DC03,Standard
+C0148,Food service,DC01,Silver
+C0149,E-commerce,DC02,Standard
+C0150,Independent retail,DC04,Standard
+C0151,E-commerce,DC01,Standard
+C0152,3PL,DC02,Standard
+C0153,E-commerce,DC03,Silver
+C0154,3PL,DC01,Standard
+C0155,Independent retail,DC01,Standard
+C0156,Food service,DC01,Standard
+C0157,Independent retail,DC04,Standard
+C0158,Independent retail,DC01,Silver
+C0159,3PL,DC01,Standard
+C0160,E-commerce,DC01,Gold
+C0161,Food service,DC01,Standard
+C0162,E-commerce,DC03,Silver
+C0163,Food service,DC01,Standard
+C0164,E-commerce,DC02,Standard
+C0165,Food service,DC03,Silver
+C0166,Food service,DC04,Gold
+C0167,Retail chain,DC01,Silver
+C0168,Food service,DC04,Standard
+C0169,Independent retail,DC03,Standard
+C0170,Independent retail,DC01,Silver
+C0171,Retail chain,DC04,Standard
+C0172,Food service,DC04,Silver
+C0173,3PL,DC01,Standard
+C0174,E-commerce,DC04,Standard
+C0175,E-commerce,DC02,Silver
+C0176,E-commerce,DC03,Silver
+C0177,Food service,DC04,Standard
+C0178,Retail chain,DC02,Standard
+C0179,Independent retail,DC04,Silver
+C0180,Food service,DC01,Standard
+C0181,Retail chain,DC04,Standard
+C0182,Independent retail,DC03,Standard
+C0183,Independent retail,DC01,Silver
+C0184,E-commerce,DC02,Silver
+C0185,Retail chain,DC01,Standard
+C0186,E-commerce,DC01,Standard
+C0187,E-commerce,DC01,Standard
+C0188,E-commerce,DC02,Standard
+C0189,3PL,DC01,Standard
+C0190,Retail chain,DC01,Standard
+C0191,Retail chain,DC03,Silver
+C0192,Independent retail,DC03,Standard
+C0193,Food service,DC03,Standard
+C0194,3PL,DC01,Standard
+C0195,Independent retail,DC04,Silver
+C0196,Retail chain,DC03,Silver
+C0197,Retail chain,DC01,Standard
+C0198,3PL,DC01,Silver
+C0199,Independent retail,DC03,Standard
+C0200,3PL,DC01,Standard
+C0201,E-commerce,DC02,Gold
+C0202,Independent retail,DC04,Standard
+C0203,Food service,DC01,Standard
+C0204,E-commerce,DC01,Standard
+C0205,Food service,DC04,Standard
+C0206,Food service,DC03,Silver
+C0207,E-commerce,DC01,Standard
+C0208,Retail chain,DC04,Standard
+C0209,Independent retail,DC04,Standard
+C0210,E-commerce,DC02,Standard
+C0211,Retail chain,DC03,Standard
+C0212,Retail chain,DC01,Standard
+C0213,E-commerce,DC01,Silver
+C0214,3PL,DC03,Standard
+C0215,Independent retail,DC01,Standard
+C0216,E-commerce,DC03,Standard
+C0217,3PL,DC04,Standard
+C0218,Independent retail,DC01,Standard
+C0219,E-commerce,DC03,Silver
+C0220,Independent retail,DC01,Standard
+C0221,E-commerce,DC04,Silver
+C0222,3PL,DC01,Gold
+C0223,Food service,DC03,Standard
+C0224,Food service,DC02,Standard
+C0225,E-commerce,DC02,Standard
+C0226,Independent retail,DC03,Silver
+C0227,E-commerce,DC03,Standard
+C0228,E-commerce,DC02,Silver
+C0229,E-commerce,DC03,Silver
+C0230,Independent retail,DC04,Silver
+C0231,E-commerce,DC02,Standard
+C0232,3PL,DC02,Gold
+C0233,Food service,DC01,Standard
+C0234,E-commerce,DC04,Standard
+C0235,E-commerce,DC02,Standard
+C0236,E-commerce,DC02,Gold
+C0237,Food service,DC01,Standard
+C0238,Independent retail,DC04,Silver
+C0239,E-commerce,DC02,Standard
+C0240,Independent retail,DC03,Gold
+C0241,E-commerce,DC01,Standard
+C0242,Independent retail,DC04,Standard
+C0243,3PL,DC01,Gold
+C0244,Independent retail,DC01,Standard
+C0245,Food service,DC04,Standard
+C0246,Independent retail,DC04,Standard
+C0247,E-commerce,DC01,Standard
+C0248,E-commerce,DC02,Standard
+C0249,E-commerce,DC03,Standard
+C0250,Food service,DC04,Standard
+C0251,Independent retail,DC02,Silver
+C0252,Food service,DC02,Standard
+C0253,Independent retail,DC03,Standard
+C0254,E-commerce,DC03,Standard
+C0255,Independent retail,DC04,Standard
+C0256,E-commerce,DC02,Silver
+C0257,E-commerce,DC01,Gold
+C0258,Independent retail,DC04,Gold
+C0259,3PL,DC04,Standard
+C0260,Food service,DC04,Standard
+C0261,E-commerce,DC01,Standard
+C0262,Food service,DC01,Standard
+C0263,E-commerce,DC03,Standard
+C0264,Independent retail,DC01,Silver
+C0265,Independent retail,DC04,Standard
+C0266,E-commerce,DC02,Standard
+C0267,E-commerce,DC03,Standard
+C0268,E-commerce,DC04,Standard
+C0269,3PL,DC02,Standard
+C0270,Retail chain,DC01,Standard
+C0271,Independent retail,DC03,Silver
+C0272,Food service,DC03,Standard
+C0273,Food service,DC02,Standard
+C0274,E-commerce,DC03,Standard
+C0275,3PL,DC04,Silver
+C0276,E-commerce,DC02,Standard
+C0277,Food service,DC01,Silver
+C0278,Food service,DC02,Gold
+C0279,Food service,DC02,Standard
+C0280,3PL,DC01,Silver
+C0281,E-commerce,DC01,Standard
+C0282,Food service,DC03,Gold
+C0283,Retail chain,DC02,Standard
+C0284,Retail chain,DC04,Gold
+C0285,E-commerce,DC01,Standard
+C0286,E-commerce,DC01,Standard
+C0287,E-commerce,DC03,Standard
+C0288,E-commerce,DC04,Silver
+C0289,Retail chain,DC01,Standard
+C0290,Food service,DC01,Standard
+C0291,Food service,DC01,Silver
+C0292,Retail chain,DC02,Silver
+C0293,Retail chain,DC02,Standard
+C0294,E-commerce,DC01,Standard
+C0295,Food service,DC01,Standard
+C0296,E-commerce,DC02,Silver
+C0297,E-commerce,DC04,Standard
+C0298,Retail chain,DC03,Silver
+C0299,Retail chain,DC02,Standard
+C0300,E-commerce,DC01,Standard
+C0301,Food service,DC01,Standard
+C0302,Food service,DC01,Standard
+C0303,Independent retail,DC04,Silver
+C0304,Food service,DC04,Standard
+C0305,Food service,DC04,Standard
+C0306,E-commerce,DC04,Gold
+C0307,Independent retail,DC04,Gold
+C0308,Food service,DC04,Silver
+C0309,Retail chain,DC01,Standard
+C0310,Food service,DC01,Standard
+C0311,Retail chain,DC01,Silver
+C0312,Food service,DC02,Standard
+C0313,Independent retail,DC01,Standard
+C0314,Independent retail,DC04,Silver
+C0315,3PL,DC03,Standard
+C0316,Food service,DC02,Standard
+C0317,Food service,DC01,Gold
+C0318,Independent retail,DC01,Silver
+C0319,E-commerce,DC01,Standard
+C0320,Independent retail,DC04,Standard
+C0321,Retail chain,DC03,Standard
+C0322,E-commerce,DC03,Standard
+C0323,E-commerce,DC01,Silver
+C0324,Independent retail,DC02,Silver
+C0325,E-commerce,DC02,Standard
+C0326,E-commerce,DC04,Standard
+C0327,Retail chain,DC04,Silver
+C0328,E-commerce,DC01,Standard
+C0329,E-commerce,DC04,Standard
+C0330,Independent retail,DC01,Standard
+C0331,E-commerce,DC04,Silver
+C0332,Independent retail,DC01,Standard
+C0333,Independent retail,DC01,Silver
+C0334,Retail chain,DC04,Standard
+C0335,E-commerce,DC01,Silver
+C0336,Food service,DC02,Standard
+C0337,E-commerce,DC02,Standard
+C0338,Retail chain,DC01,Standard
+C0339,3PL,DC03,Standard
+C0340,3PL,DC04,Standard
+C0341,Independent retail,DC04,Standard
+C0342,E-commerce,DC02,Standard
+C0343,Food service,DC02,Standard
+C0344,Independent retail,DC01,Gold
+C0345,Retail chain,DC01,Standard
+C0346,Food service,DC01,Silver
+C0347,E-commerce,DC04,Gold
+C0348,E-commerce,DC04,Standard
+C0349,Food service,DC04,Silver
+C0350,E-commerce,DC02,Silver
+C0351,E-commerce,DC02,Silver
+C0352,Independent retail,DC02,Standard
+C0353,3PL,DC02,Standard
+C0354,Food service,DC02,Standard
+C0355,Independent retail,DC01,Standard
+C0356,3PL,DC01,Gold
+C0357,E-commerce,DC04,Gold
+C0358,Retail chain,DC02,Standard
+C0359,Retail chain,DC04,Silver
+C0360,E-commerce,DC01,Standard
+C0361,Independent retail,DC02,Gold
+C0362,Retail chain,DC01,Standard
+C0363,Retail chain,DC01,Gold
+C0364,E-commerce,DC01,Silver
+C0365,E-commerce,DC01,Standard
+C0366,3PL,DC04,Standard
+C0367,E-commerce,DC02,Silver
+C0368,E-commerce,DC03,Standard
+C0369,E-commerce,DC02,Standard
+C0370,Retail chain,DC02,Gold
+C0371,Food service,DC02,Standard
+C0372,Retail chain,DC01,Standard
+C0373,E-commerce,DC04,Standard
+C0374,E-commerce,DC04,Standard
+C0375,Independent retail,DC03,Gold
+C0376,Food service,DC02,Standard
+C0377,Food service,DC01,Standard
+C0378,Food service,DC04,Standard
+C0379,Independent retail,DC02,Gold
+C0380,E-commerce,DC01,Standard
+C0381,Retail chain,DC02,Silver
+C0382,Food service,DC04,Silver
+C0383,Retail chain,DC03,Silver
+C0384,Independent retail,DC03,Gold
+C0385,Retail chain,DC04,Silver
+C0386,Independent retail,DC01,Gold
+C0387,Independent retail,DC04,Standard
+C0388,Food service,DC02,Silver
+C0389,3PL,DC03,Standard
+C0390,Food service,DC01,Standard
+C0391,Independent retail,DC04,Silver
+C0392,Retail chain,DC01,Gold
+C0393,Retail chain,DC01,Silver
+C0394,Food service,DC02,Standard
+C0395,E-commerce,DC01,Standard
+C0396,Retail chain,DC01,Standard
+C0397,3PL,DC03,Standard
+C0398,Food service,DC02,Standard
+C0399,E-commerce,DC04,Standard
+C0400,Retail chain,DC01,Standard
+C0401,E-commerce,DC03,Silver
+C0402,E-commerce,DC02,Standard
+C0403,3PL,DC03,Gold
+C0404,Retail chain,DC03,Silver
+C0405,E-commerce,DC02,Standard
+C0406,Food service,DC04,Standard
+C0407,E-commerce,DC02,Standard
+C0408,E-commerce,DC01,Gold
+C0409,Independent retail,DC03,Standard
+C0410,Food service,DC04,Standard
+C0411,3PL,DC01,Gold
+C0412,Food service,DC02,Gold
+C0413,Retail chain,DC04,Standard
+C0414,Independent retail,DC03,Standard
+C0415,3PL,DC04,Standard
+C0416,Independent retail,DC02,Standard
+C0417,3PL,DC03,Standard
+C0418,Independent retail,DC01,Standard
+C0419,Independent retail,DC04,Gold
+C0420,E-commerce,DC02,Standard
